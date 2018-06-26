@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dogshelter>
+    <dog id="dog1">
+        <name> Cloe </name>
+        <age> 3 </age>
+        <breed> Border Collie </breed>
+        <playgroup> Yes </playgroup>
+    </dog>
+    <dog id="dog2"> 
+        <name> Karl </name> 
+        <age> 7 </age>
+        <breed> Beagle </breed>
+        <playgroup> Yes </playgroup>
+    </dog>
+</dogshelter>
