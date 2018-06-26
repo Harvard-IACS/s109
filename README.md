@@ -1,1 +1,1 @@
-# s109
+# Official Public site for CS109a Summer 2018
